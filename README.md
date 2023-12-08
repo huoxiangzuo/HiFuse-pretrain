@@ -10,9 +10,6 @@ Pretrained models of [HiFuse on ImageNet-1K](https://drive.google.com/file/d/1Hn
 ## Overview
 ![paper1_1_01(1)](https://user-images.githubusercontent.com/57312968/170870503-0b2c1728-daa8-4f80-a79b-d66c6748ac83.png)
 
-## Grad-CAM results in ablation experiments
-<img src="https://user-images.githubusercontent.com/57312968/170870613-41fbdeb6-f8db-4117-9a2c-133e0ee23d18.png" width="66%"/>
-
 ## Run
 0. Requirements:
 * python3.6/3.7/3.8
