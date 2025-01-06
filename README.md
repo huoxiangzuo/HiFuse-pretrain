@@ -36,3 +36,14 @@ Some of the codes in this repo are borrowed from:
 ## Citation
 
 If you find our paper/code is helpful, please consider citing:
+```bibtex
+@article{huo2024hifuse,
+  title={HiFuse: Hierarchical multi-scale feature fusion network for medical image classification},
+  author={Huo, Xiangzuo and Sun, Gang and Tian, Shengwei and Wang, Yan and Yu, Long and Long, Jun and Zhang, Wendong and Li, Aolun},
+  journal={Biomedical Signal Processing and Control},
+  volume={87},
+  pages={105534},
+  year={2024},
+  publisher={Elsevier}
+}
+```
