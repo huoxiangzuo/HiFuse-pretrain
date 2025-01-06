@@ -1,4 +1,4 @@
-# HiFuse
+# HiFuse-pretrain
 ![](https://img.shields.io/github/license/huoxiangzuo/HiFuse)  
 This repo. is the official implementation of "**HiFuse: Global and Local Feature Hierarchical Fusion Network for Medical Image Classification**"  
 Authors: Xiangzuo Huo, Aolun Li, Shengwei Tian, et al.  
